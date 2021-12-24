@@ -140,7 +140,7 @@ const IndexPage = () => {
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time.{" "}
+        update in real-timess.{" "}
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
@@ -165,7 +165,7 @@ const IndexPage = () => {
               </a>
               {link.badge && (
                 <span style={badgeStyle} aria-label="New Badge">
-                  NEW!ssssssssss
+                  NEW!ssssssssssss
                 </span>
               )}
               <p style={descriptionStyle}>{link.description}</p>
