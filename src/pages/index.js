@@ -165,7 +165,7 @@ const IndexPage = () => {
               </a>
               {link.badge && (
                 <span style={badgeStyle} aria-label="New Badge">
-                  NEW!ssss
+                  NEW!sssssss
                 </span>
               )}
               <p style={descriptionStyle}>{link.description}</p>
